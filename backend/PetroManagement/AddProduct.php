@@ -152,7 +152,7 @@ if (strlen($_SESSION['aid'] == 0)) {
             </div>
             <!-- fontend -->
             <div class="container">
-                <div class="header-addpro">
+                <div class="header">
                     <h4 class="header-item" style="color: white;">
                         <i class="fas fa-folder"></i>
                         <span>Add Product</span>
